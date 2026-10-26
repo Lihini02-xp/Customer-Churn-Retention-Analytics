@@ -38,3 +38,8 @@ Author
 
 ICT Undergraduate | Aspiring Data Analyst
 
+## Power BI Dashboard
+
+This dashboard analyzes customer churn and retention patterns using Power BI.
+
+![Customer Churn Dashboard](Power-BI project.png)
